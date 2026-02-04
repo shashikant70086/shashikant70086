@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Shashikant (aka Sir)
+# 👋 Hi, I'm Shashikant 
 
-🚀 **Robotics | AI | Computer Vision | Space-Tech | Systems Engineering**  
+🚀 **Robotics | AI | Computer Vision | Systems Engineering**  
 🎓 Engineering student passionate about building **real-world, high-impact tech**  
 🧠 Strong believer in **local-first AI, open innovation, and deep engineering**
 
