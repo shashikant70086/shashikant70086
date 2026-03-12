@@ -33,7 +33,7 @@
 - HTML, CSS, JavaScript (lightweight-first approach)
 - Firebase, MongoDB
 - Streamlit Dashboards
-- Linux, GPU Compute (RTX 3050, NVIDIA L40S)
+- Linux, GPU Compute (RTX 3050, RTX 4060, NVIDIA L40S)
 
 ---
 
